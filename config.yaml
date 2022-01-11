@@ -1,0 +1,85 @@
+baseURL: /
+languageCode: en-us
+title: 'Eat Gen : Home Eateries'
+theme: restaurant-hugo
+summaryLength: '10'
+paginate: 4
+params:
+  author: EatGen
+  copyright: Copyright &copy; 2021 Designed by [Themefisher](https://themefisher.com)
+    & Theme by [Gethugothemes](https://gethugothemes.com)
+  description: This is meta description
+  footer:
+    blogTitle: LATEST <span>BLOG POSTS</span>
+    contactInfoTitle: 'CONTACT <span>INFO</span> '
+    contactItem:
+      - content: +62 812 380 0436
+        icon: fa fa-phone
+        title: Telephone
+      - content: Jl. Tukad Badung XVII No 20, Renon, Denpasar Selatan, Bali, Indonesia
+        icon: fa fa-map-marker
+        title: Address
+      - content: eatgenbali@gmail.com
+        icon: fa fa-envelope
+        title: E mail
+    enable: yes
+    gallery:
+      - image: images/slider/slider-img-1.jpg
+      - image: images/slider/slider-img-2.jpg
+      - image: images/slider/slider-img-3.jpg
+      - image: images/slider/slider-img-4.jpg
+      - image: images/slider/slider-img-1.jpg
+      - image: images/slider/slider-img-2.jpg
+    galleryTitle: PHOTO <span>STREAM</span>
+    socialLink:
+      - icon: facebook
+        link: https://fb.com/themefisher
+      - icon: twitter
+        link: https://fb.com/themefisher
+      - icon: dribbble
+        link: https://fb.com/themefisher
+      - icon: instagram
+        link: https://fb.com/themefisher
+    socialTitle: Follow <span>US</span>
+  google_analitycs_id: Your ID
+  logo: images/logo.png
+  main_sections: post
+  plugins:
+    css:
+      - URL: css/bootstrap.min.css
+      - URL: css/slick.css
+      - URL: css/font-awesome.min.css
+      - URL: css/animate.min.css
+      - URL: css/venobox.css
+      - URL: css/main.css
+      - URL: css/responsive.css
+    js:
+      - URL: js/jquery.min.js
+      - URL: js/bootstrap.min.js
+      - URL: js/slick.min.js
+      - URL: js/wow.min.js
+      - URL: js/venobox.min.js
+      - URL: js/main.js
+  preloader:
+    enable: no
+    preloader: ''
+menu:
+  main:
+    - URL: hero-area
+      name: Home
+      weight: 1
+    - URL: about-us
+      name: About Us
+      weight: 2
+    - URL: blog
+      name: Blog
+      weight: 3
+    - URL: price
+      name: Price
+      weight: 4
+    - URL: subscribe
+      name: News
+      weight: 5
+    - URL: contact-us
+      name: Contact Us
+      weight: 6
