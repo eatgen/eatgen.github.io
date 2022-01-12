@@ -1,0 +1,140 @@
+---
+title: "Our Menu"
+date: "2022-01-12"
+description: "Eat Gen Menu as of 12 Jan 2022"
+image: "images/blog/blog-img-2.jpg"
+type: "post"
+output: "html_document"
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+This is our latest menu. To order online, you can also find us in [GoFood](https://gofood.co.id/english/bali/restaurant/eat-gen-hayam-wuruk-cc0886da-22cc-4732-8bfd-e6882eec9456). 
+
+<br>
+<br>
+
+<div class="row">
+  <div class="col-sm-4">
+  
+  <p style="font-size:2em">Basic Menu</p>
+
+<br>
+
+Nasi Goreng Biasa
+
+Nasi Goreng Special
+
+Nasi Goreng Pete
+
+Nasi Pecel 
+
+Nasi Pecel Special
+
+Rawon
+
+Tahu Petis
+
+Bubur Ayam
+
+Mie Ayam
+
+Pangsit Kuah
+
+<br>
+
+<p style="font-size:2em">Sayuran</p>
+
+<br>
+
+Cah Kangkung
+
+Cah Tauge
+
+Urap
+
+
+<br>
+  </div>
+  
+  <div class="col-sm-4">
+  
+  <p style="font-size:2em">Ikan</p>
+
+<br>
+
+Nila Menyat-nyat *+ Sayur*
+
+Nila Goreng *+ Lalapan + Sambal*
+
+Steak Tengiri *+ Sambal Matah + Sambal Kecap*
+
+
+
+<br>
+
+<p style="font-size:2em">Ayam</p>
+
+<br>
+
+- Betutu Ayam Kampung
+- Ayam Telor Asin
+- Ayam Teryaki *+ Sayur*
+- Ayam Goreng Mentega
+
+<br>
+
+<p style="font-size:2em">Udang</p>
+
+<br>
+
+- Udang Telor Asin
+- Udang Goreng Tepung
+- Udang Mentega
+- Udang Panggang *+ Sambal Matah + Plecing Kangkung*
+
+<br>
+  
+  </div>
+  <div class="col-sm-4">
+  
+  <p style="font-size:2em">Snack</p>
+
+<br>
+
+- Siomay
+- Pastel
+
+<br>
+  
+  <p style="font-size:2em">Minuman</p>
+
+<br>
+
+- Teh Tawar
+- Teh Manis 
+- Es Jeruk / Jeruk Hangat
+- Es Lemon Tea
+- Es Lemongrass
+
+<br>
+
+<p style="font-size:2em">Coffee</p>
+
+<br>
+
+- Long Black
+- Cappucino / Latte
+- Flat White
+- Mocha
+  
+  </div>
+</div>
+ 
+
+
+
+

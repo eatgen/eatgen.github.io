@@ -1,0 +1,27 @@
+---
+title: "Off Menu: OPEN PO"
+date: "2022-01-12"
+description: "Open PO Information"
+image: "images/blog/blog-img-3.jpg"
+type: "post"
+output: "html_document"
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+Open PO! Contact via WhatsApp @ [+62 812 380 0436](https://wa.me/628123800436).
+
+<br>
+
+PO Menu options include but not limited to:
+
+- Ayam Asap / Ekor (bisa dipesan beku)
+- Nasi Bungkus (harga sesuai budget masing2)
+- Sambal Pecel 
+
+<br>
+<br>
+
+Lihat di [Tokopedia](https://www.tokopedia.com/egbali)!
